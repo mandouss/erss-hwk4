@@ -1,0 +1,9 @@
+package parseData
+
+import (
+	"fmt"
+)
+
+func Printmessage() {
+	fmt.Println("hello world")
+}
